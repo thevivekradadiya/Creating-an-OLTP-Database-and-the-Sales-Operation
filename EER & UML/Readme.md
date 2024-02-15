@@ -1,4 +1,4 @@
-## Getting Started
-• Designed conceptual data models using Entity Relation Diagrams, Enhanced entity-relationship in Lucid chart with respect to Business Rules
+## Commencing with:
+• Using entity relationship diagrams to design conceptual data models, enhanced entity-relationship in Lucid chart concerning business rules.
 
-• Developed normalized relational database (3NF) using MySQL Workbench and pgAdmin 4 to avoid redundancy in the database
+• To prevent database redundancy, a normalized relational database (3NF) was created using MySQL Workbench and pgAdmin 4.
