@@ -1,4 +1,4 @@
-# Designing-the-Sales-Operation-and-an-OLTP-Database
+# Creating an OLTP Database and the Sales Operation
 
 • Used Entity Relation Diagrams to design conceptual data models and improved entity-relationship in Lucid charts in accordance with business rules.
 
